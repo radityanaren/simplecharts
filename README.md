@@ -56,7 +56,7 @@ SimpleCharts is a fast browser based trading chart that renders everything on a 
 
 2. Go to the directory:
    ```bash
-   cd SimpleCharts
+   cd simplecharts
    ```
 
 3. Install dev dependencies :
