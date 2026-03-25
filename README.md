@@ -51,7 +51,7 @@ SimpleCharts is a fast browser based trading chart that renders everything on a 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/radityanaren/SimpleCharts.git
+   git clone https://github.com/radityanaren/simplecharts.git
    ```
 
 2. Go to the directory:
